@@ -62,12 +62,12 @@ $(stage).append('<div class="questionText">'+questionBank[questionNumber][0]+'</
   if(questionLock==false){questionLock=true;	
   //correct answer
   if(this.id==rnd){
-   $(stage).append('<div class="feedback1">CORRECT</div>');
+   $(stage).append('<div class="feedback1">CORRECTO</div>');
    score++;
    }
   //wrong answer	
   if(this.id!=rnd){
-   $(stage).append('<div class="feedback2">WRONG</div>');
+   $(stage).append('<div class="feedback2">ERRADO</div>');
   }
   setTimeout(function(){changeQuestion()},1000);
  }})
@@ -96,7 +96,7 @@ $(stage).append('<div class="questionText">'+questionBank[questionNumber][0]+'</
 	
 	function displayFinalSlide(){
 		
-		$(stage).append('<div class="questionText">You have finished the quiz!<br><br>Total questions: '+numberOfQuestions+'<br>Correct answers: '+score+'</div>');
+		$(stage).append('<div class="questionText">Terminaste o Quiz!<br><br>Total de perguntas: '+numberOfQuestions+'<br>Respostas Correctas: '+score+'</div>');
 		
 	}//display final slide
 	

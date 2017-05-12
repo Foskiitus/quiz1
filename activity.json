@@ -1,23 +1,17 @@
 {"quizlist":[
   
 	{
-	"question":"Portuguese is spoken in _______",
-	"option1":"Brazil",
-	"option2":"Argentina",
-	"option3":"Ecuador"
-	},
-	{
-	"question":"What is the capital of Peru?",
-	"option1":"Lima",
-	"option2":"Bogota",
-	"option3":"San Juan"
-	},
-	{
-	"question":"Which country is long and thin?",
-	"option1":"Chile",
-	"option2":"Uruguay",
-	"option3":"Colombia"
+	"question":"O que representa o codigo 849.352",
+	"option1":"Bananas",
+	"option2":"Morangos",
+	"option3":"Maças"
+	},{
+	"question":"Qual é o codigo do Abacate ",
+	"option1":"849.155",
+	"option2":"851.260",
+	"option3":"849.441"
 	}
+	
 
 ]
 }
