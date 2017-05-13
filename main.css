@@ -1,7 +1,7 @@
 html, body {
 	margin: 0;
 	padding: 0;
-	background-color: #4B515D;
+	background-color: #f5f5f5;
 	font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -11,6 +11,7 @@ width:800px;
 height:400px;
 position:relative;
 overflow:hidden;
+text-align: center;
 }
 
 #game1{
@@ -34,7 +35,8 @@ position:absolute;
  
 .questionText{
 font-size:27px;
-color:#FFF;
+color:#000;
+text-align: center;
 }
 
 .option{width:400px;
@@ -45,8 +47,10 @@ color:#FFFFFF;
 padding:2px;
 padding-left:10px;
 border: 2px solid white;
+border-radius: 8px;
 cursor:pointer;
 background-color:#3399FF;
+text-align: center;
 }
 
 .option:hover{
@@ -55,21 +59,13 @@ color:#FC0;
 }
 
 
-		
-
-
-
-
-
-
-
  
 
 #topbar{
 height:50px;
 margin:auto;
 margin-top:50px;
-color:#FFF;
+color:#000;
 font-size:36px;
 font-family:Arial, Helvetica, sans-serif;
 width:800px;
@@ -80,19 +76,16 @@ border-bottom:solid white 1px;
 height:30px;
 }
 
- 
-
-
-
 
 .feedback1{
 width:175px;
 padding:5px;
 font-size:30px;
 color:#FFFFCC;
-background-color:#009900;
+background-color:#00C851;
 font-family:Arial, Helvetica, sans-serif;
 text-align:center;
+border-radius: 8px;
 }
 
 .feedback2{
@@ -100,7 +93,7 @@ width:150px;
 padding:5px;
 font-size:30px;
 color:#FFFFCC;
-background-color:#CC3300;
+background-color:#ff4444;
 font-family:Arial, Helvetica, sans-serif;
 text-align:center;
 }
