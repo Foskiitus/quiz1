@@ -3,28 +3,208 @@
 	{
 	"question":"Qual é o codigo do Abobora ",
 	"option1":"850.625",
-	"option2":"851.260",
-	"option3":"849.441"
+	"option2":"850.260",
+	"option3":"850.441"
 	},{
 	"question":"Qual é o codigo do Alface ",
 	"option1":"850.481",
-	"option2":"851.262",
-	"option3":"849.444"
+	"option2":"850.262",
+	"option3":"850.444"
 	},{
 	"question":"Qual é o codigo do Agrião ",
 	"option1":"850.602",
-	"option2":"851.266",
-	"option3":"849.411"
+	"option2":"850.266",
+	"option3":"851.411"
 	},{
 	"question":"Qual é o codigo do Alho Embalado KG ",
 	"option1":"851.122",
 	"option2":"851.230",
-	"option3":"849.411"
+	"option3":"850.411"
 	},{
 	"question":"Qual é o codigo do Alho Francês KG ",
 	"option1":"850.608",
 	"option2":"851.232",
-	"option3":"849.491"
+	"option3":"851.491"
+	},{
+	"question":"Qual é o codigo do Alho Francês Molho ",
+	"option1":"850.606",
+	"option2":"850.262",
+	"option3":"850.444"
+	},{
+	"question":"Qual é o codigo do Alho Seco Granel ",
+	"option1":"851.121",
+	"option2":"851.266",
+	"option3":"851.411"
+	},{
+	"question":"Qual é o codigo da Batata Nova Granel ",
+	"option1":"851.242",
+	"option2":"851.230",
+	"option3":"850.411"
+	},{
+	"question":"Qual é o codigo da Batata Embalada 2.5KG ",
+	"option1":"851.244",
+	"option2":"851.232",
+	"option3":"851.491"
+	},{
+	"question":"Qual é o codigo da Batata Embalada 5KG ",
+	"option1":"851.243",
+	"option2":"851.262",
+	"option3":"851.444"
+	},{
+	"question":"Qual é o codigo da Batata Saco 10KG",
+	"option1":"851.248",
+	"option2":"851.266",
+	"option3":"851.411"
+	},{
+	"question":"Qual é o codigo da Batata Saco 20KG ",
+	"option1":"851.245",
+	"option2":"851.230",
+	"option3":"850.411"
+	},{
+	"question":"Qual é o codigo da Batata Velha Granel ",
+	"option1":"851.241",
+	"option2":"851.232",
+	"option3":"851.491"
+	},{
+	"question":"Qual é o codigo da Batata Velha Saco 20KG ",
+	"option1":"851.247",
+	"option2":"851.262",
+	"option3":"851.444"
+	},{
+	"question":"Qual é o codigo da Batata Doce ",
+	"option1":"851.341",
+	"option2":"851.266",
+	"option3":"851.411"
+	},{
+	"question":"Qual é o codigo da Beringela ",
+	"option1":"850.609",
+	"option2":"850.230",
+	"option3":"850.411"
+	},{
+	"question":"Qual é o codigo da Beterraba ",
+	"option1":"851.342",
+	"option2":"851.232",
+	"option3":"851.491"
+	},{
+	"question":"Qual é o codigo do Bróculos ",
+	"option1":"850.507",
+	"option2":"850.230",
+	"option3":"850.411"
+	},{
+	"question":"Qual é o codigo da Cebola Saco 15KG ",
+	"option1":"851.104",
+	"option2":"851.232",
+	"option3":"851.491"
+	},{
+	"question":"Qual é o codigo da Cebola Granel ",
+	"option1":"851.101",
+	"option2":"851.262",
+	"option3":"851.444"
+	},{
+	"question":"Qual é o codigo da Cebola Nova ",
+	"option1":"851.105",
+	"option2":"851.266",
+	"option3":"851.411"
+	},{
+	"question":"Qual é o codigo da Cenoura ",
+	"option1":"851.541",
+	"option2":"851.230",
+	"option3":"851.411"
+	},{
+	"question":"Qual é o codigo do Chuchu ",
+	"option1":"850.610",
+	"option2":"850.232",
+	"option3":"850.491"
+	},{
+	"question":"Qual é o codigo da Corgete ",
+	"option1":"850.611",
+	"option2":"850.230",
+	"option3":"850.411"
+	},{
+	"question":"Qual é o codigo da Couve Branca ",
+	"option1":"850.506",
+	"option2":"850.232",
+	"option3":"850.491"
+	},{
+	"question":"Qual é o codigo da Couve Coração",
+	"option1":"850.501",
+	"option2":"850.262",
+	"option3":"850.444"
+	},{
+	"question":"Qual é o codigo da Couve Flor ",
+	"option1":"850.502",
+	"option2":"850.266",
+	"option3":"850.411"
+	},{
+	"question":"Qual é o codigo da Couve Lombarda ",
+	"option1":"850.503",
+	"option2":"850.230",
+	"option3":"850.411"
+	},{
+	"question":"Qual é o codigo da Couve Roxa ",
+	"option1":"850.505",
+	"option2":"850.232",
+	"option3":"850.491"
+	},{
+	"question":"Qual é o codigo da Couve Bruxelas ",
+	"option1":"850.508",
+	"option2":"850.230",
+	"option3":"850.411"
+	},{
+	"question":"Qual é o codigo dos Cogumelos ",
+	"option1":"850.605",
+	"option2":"850.232",
+	"option3":"850.491"
+	},{
+	"question":"Qual é o codigo da Ervilha Quebrar ",
+	"option1":"850.613",
+	"option2":"850.262",
+	"option3":"850.444"
+	},{
+	"question":"Qual é o codigo dos Espinafres ",
+	"option1":"850.604",
+	"option2":"850.266",
+	"option3":"850.411"
+	},{
+	"question":"Qual é o codigo das Favas ",
+	"option1":"850.628",
+	"option2":"850.230",
+	"option3":"850.411"
+	},{
+	"question":"Qual é o codigo do Feijao Branco ",
+	"option1":"850.620",
+	"option2":"850.232",
+	"option3":"850.491"
+	},{
+	"question":"Qual é o codigo do Feijao Preto ",
+	"option1":"850.622",
+	"option2":"850.230",
+	"option3":"850.411"
+	},{
+	"question":"Qual é o codigo do Feijão Verde ",
+	"option1":"850.612",
+	"option2":"850.232",
+	"option3":"850.491"
+	},{
+	"question":"Qual é o codigo do Gengibre ",
+	"option1":"851.561",
+	"option2":"851.262",
+	"option3":"851.444"
+	},{
+	"question":"Qual é o codigo dos Grelos Molho ",
+	"option1":"850.601",
+	"option2":"850.266",
+	"option3":"850.411"
+	},{
+	"question":"Qual é o codigo da Mandioca ",
+	"option1":"851.343",
+	"option2":"851.230",
+	"option3":"851.411"
+	},{
+	"question":"Qual é o codigo das Nabiças ",
+	"option1":"850.627",
+	"option2":"850.232",
+	"option3":"850.491"
 	}
 	
 

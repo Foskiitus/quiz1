@@ -16,37 +16,380 @@
 	"option2":"851.260",
 	"option3":"849.155"
 	},{
-	"question":"Qual é o codigo do Abrunhos ",
+	"question":"Qual é o codigo dos Abrunhos ",
 	"option1":"848.307",
 	"option2":"851.260",
-	"option3":"849.441"
+	"option3":"848.441"
 	},{
-	"question":"Qual é o codigo do Ameixa Branca ",
+	"question":"Qual é o codigo da Ameixa Branca ",
 	"option1":"848.317",
 	"option2":"848.307",
 	"option3":"849.441"
 	},{
-	"question":"Qual é o codigo do Ameixa Vermelha ",
+	"question":"Qual é o codigo da Ameixa Vermelha ",
 	"option1":"848.316",
 	"option2":"851.260",
 	"option3":"848.308"
 	},{
-	"question":"Qual é o codigo do Amêndoa ",
+	"question":"Qual é o codigo da Amêndoa ",
 	"option1":"849.984",
 	"option2":"851.260",
 	"option3":"849.441"
 	},{
-	"question":"Qual é o codigo do Anona ",
+	"question":"Qual é o codigo da Anona ",
 	"option1":"849.445",
 	"option2":"850.260",
+	"option3":"849.441"
+	},{
+	"question":"Qual é o codigo da Avelã ",
+	"option1":"849.985",
+	"option2":"849.260",
+	"option3":"849.441"
+	},{
+	"question":"Qual é o codigo da Banana Estrangeira ",
+	"option1":"849.352",
+	"option2":"849.260",
+	"option3":"849.449"
+	},{
+	"question":"Qual é o codigo da Banana Madeira ",
+	"option1":"849.353",
+	"option2":"849.262",
+	"option3":"849.450"
+	},{
+	"question":"Qual é o codigo da Banana Promoção ",
+	"option1":"849.354",
+	"option2":"849.264",
+	"option3":"849.443"
+	},{
+	"question":"Qual é o codigo da Banana Canárias ",
+	"option1":"849.354",
+	"option2":"849.320",
+	"option3":"849.448"
+	},{
+	"question":"Qual é o codigo da Castanha ",
+	"option1":"849.961",
+	"option2":"849.750",
+	"option3":"849.441"
+	},{
+	"question":"Qual é o codigo da Cereja ",
+	"option1":"848.310",
+	"option2":"848.860",
+	"option3":"848.941"
+	},{
+	"question":"Qual é o codigo da Clementina ",
+	"option1":"848.806",
+	"option2":"848.260",
 	"option3":"848.441"
 	},{
-	"question":"Qual é o codigo do Avelã ",
-	"option1":"849.985",
-	"option2":"850.260",
-	"option3":"850.441"
+	"question":"Qual é o codigo do Coco ",
+	"option1":"849.447",
+	"option2":"849.290",
+	"option3":"849.419"
+	},{
+	"question":"Qual é o codigo do Damasco ",
+	"option1":"849.443",
+	"option2":"849.600",
+	"option3":"849.141"
+	},{
+	"question":"Qual é o codigo do Diospiro ",
+	"option1":"848.311",
+	"option2":"848.102",
+	"option3":"848.541"
+	},{
+	"question":"Qual é o codigo do Figo ",
+	"option1":"848.856",
+	"option2":"848.260",
+	"option3":"848.341"
+	},{
+	"question":"Qual é o codigo dos Figos Secos ",
+	"option1":"849.981",
+	"option2":"849.360",
+	"option3":"849.241"
+	},{
+	"question":"Qual é o codigo do Kiwi ",
+	"option1":"848.854",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo da Laranja Grande ",
+	"option1":"848.805",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo da Laranja Pequena ",
+	"option1":"848.801",
+	"option2":"848.260",
+	"option3":"848.341"
+	},{
+	"question":"Qual é o codigo da Lima ",
+	"option1":"849.804",
+	"option2":"849.360",
+	"option3":"849.241"
+	},{
+	"question":"Qual é o codigo do Limão ",
+	"option1":"848.802",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo da Maça Promoção ",
+	"option1":"848.051",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo da Maça Golden Grande ",
+	"option1":"848.052",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo da Maça Golden Pequena ",
+	"option1":"848.053",
+	"option2":"848.260",
+	"option3":"848.341"
+	},{
+	"question":"Qual é o codigo da Maça Golden Extra ",
+	"option1":"849.067",
+	"option2":"849.360",
+	"option3":"849.241"
+	},{
+	"question":"Qual é o codigo da Maça Gala Grande",
+	"option1":"848.054",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo da Maça Gala Pequena",
+	"option1":"848.055",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo da Maça Starking Grande",
+	"option1":"848.056",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo da Maça Starking Pequena ",
+	"option1":"848.057",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo da Maça Fuji Grande ",
+	"option1":"848.058",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo da Maça Fuji Pequena ",
+	"option1":"848.059",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo da Maça Braeburn Grande",
+	"option1":"848.070",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo da Maça Braeburn ",
+	"option1":"848.068",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo da Maça Reineta ",
+	"option1":"848.060",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo da Maça Pink Lady ",
+	"option1":"848.062",
+	"option2":"848.260",
+	"option3":"848.341"
+	},{
+	"question":"Qual é o codigo da Maça Melrose",
+	"option1":"848.063",
+	"option2":"848.360",
+	"option3":"848.241"
+	},{
+	"question":"Qual é o codigo da Maça Jonagored",
+	"option1":"848.064",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo da Maça Bravo ",
+	"option1":"848.065",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo da Maça Granny ",
+	"option1":"848.066",
+	"option2":"848.260",
+	"option3":"848.341"
+	},{
+	"question":"Qual é o codigo da Maça Porta da Loja",
+	"option1":"848.069",
+	"option2":"848.360",
+	"option3":"848.241"
+	},{
+	"question":"Qual é o codigo da Maça Red Delicious ",
+	"option1":"848.071",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo da Mandarina ",
+	"option1":"848.807",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo do Mamao ",
+	"option1":"849.444",
+	"option2":"848.260",
+	"option3":"848.341"
+	},{
+	"question":"Qual é o codigo da Manga Avião ",
+	"option1":"849.382",
+	"option2":"849.360",
+	"option3":"849.241"
+	},{
+	"question":"Qual é o codigo da Manga Marítima ",
+	"option1":"849.381",
+	"option2":"849.890",
+	"option3":"849.919"
+	},{
+	"question":"Qual é o codigo do Melancia ",
+	"option1":"848.304",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo da Melancia Grande",
+	"option1":"848.325",
+	"option2":"848.360",
+	"option3":"848.241"
+	},{
+	"question":"Qual é o codigo do Melão Branco ",
+	"option1":"848.303",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo do Melão Verde ",
+	"option1":"848.301",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo do Melão Verde Vitor M ",
+	"option1":"848.302",
+	"option2":"848.260",
+	"option3":"848.341"
+	},{
+	"question":"Qual é o codigo da Meloa ",
+	"option1":"848.305",
+	"option2":"848.360",
+	"option3":"848.241"
+	},{
+	"question":"Qual é o codigo da Meloa Cataloupe ",
+	"option1":"848.309",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo do Morango Embalado ",
+	"option1":"848.308",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo do Morango Granel",
+	"option1":"848.306",
+	"option2":"848.360",
+	"option3":"848.241"
+	},{
+	"question":"Qual é o codigo do Maracujá ",
+	"option1":"848.853",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo do Marmelo ",
+	"option1":"848.855",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo da Nectarina ",
+	"option1":"848.152",
+	"option2":"848.260",
+	"option3":"848.341"
+	},{
+	"question":"Qual é o codigo da Nectarina TOP ",
+	"option1":"848.153",
+	"option2":"848.360",
+	"option3":"848.241"
+	},{
+	"question":"Qual é o codigo da Nêspera ",
+	"option1":"848.857",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo da Noz Granel ",
+	"option1":"849.941",
+	"option2":"849.600",
+	"option3":"849.141"
+	},{
+	"question":"Qual é o codigo da Papaia",
+	"option1":"849.446",
+	"option2":"849.360",
+	"option3":"849.241"
+	},{
+	"question":"Qual é o codigo do Pessego ",
+	"option1":"848.151",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo do Pessego Paraguaio ",
+	"option1":"848.851",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo da Pêra Promoção ",
+	"option1":"848.000",
+	"option2":"848.260",
+	"option3":"848.341"
+	},{
+	"question":"Qual é o codigo da Pêra Importada ",
+	"option1":"848.004",
+	"option2":"848.360",
+	"option3":"848.241"
+	},{
+	"question":"Qual é o codigo da Pêra Rocha ",
+	"option1":"848.001",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo da Pêra Rocha Extra ",
+	"option1":"848.005",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo da Pêra Morentina",
+	"option1":"848.002",
+	"option2":"848.360",
+	"option3":"848.241"
+	},{
+	"question":"Qual é o codigo da Româ ",
+	"option1":"848.852",
+	"option2":"848.890",
+	"option3":"848.919"
+	},{
+	"question":"Qual é o codigo da Toranja ",
+	"option1":"848.808",
+	"option2":"848.600",
+	"option3":"848.141"
+	},{
+	"question":"Qual é o codigo da Tangerina ",
+	"option1":"848.803",
+	"option2":"848.260",
+	"option3":"848.341"
+	},{
+	"question":"Qual é o codigo da Uva Branca ",
+	"option1":"848.314",
+	"option2":"848.360",
+	"option3":"848.241"
+	},{
+	"question":"Qual é o codigo da Uva Vermelha ",
+	"option1":"848.313",
+	"option2":"848.890",
+	"option3":"848.919"
 	}
-	
-
 ]
 }
