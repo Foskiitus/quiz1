@@ -41,16 +41,24 @@ text-align: center;
 
 .option{width:400px;
 height:30px;
-margin:15px;
+margin:15px auto;
 font-size:18px;
+font-weight: bold;
 color:#FFFFFF; 
 padding:2px;
 padding-left:10px;
 border: 2px solid white;
-border-radius: 8px;
+border-radius: 6px;
 cursor:pointer;
 background-color:#3399FF;
 text-align: center;
+}
+
+.um {
+	background-color:#4285F4;
+}
+.dois {
+	background-color:#0d47a1;
 }
 
 .option:hover{
@@ -62,6 +70,7 @@ color:#FC0;
  
 
 #topbar{
+text-align: center;
 height:50px;
 margin:auto;
 margin-top:50px;
