@@ -4,7 +4,7 @@
     <description> 
         Quiz so para a berta
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
+    <author email="foskiitus@gmail.com" href="http://photocelos.pt">
         PhotoCelos Team
     </author>
     <content src="index.html" />
@@ -30,7 +30,7 @@
     <plugin name="cordova-plugin-statusbar" source="npm" spec="~2.1.2" />
     <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.0" />
     <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1" />
-    <icon src="icon.png" />
+    <icon src="www/icon.png" />
     <platform name="android">
         <icon density="ldpi" src="www/res/icon/android/drawable-ldpi-icon.png" />
         <icon density="mdpi" src="www/res/icon/android/drawable-mdpi-icon.png" />
